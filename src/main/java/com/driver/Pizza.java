@@ -13,7 +13,7 @@ public class Pizza {
     final int nonVegPizza = 400;
     final int extraCheesePrice = 80;
     final int extraToppingsVegPrice = 70;
-    final int extraToppingsNonvegPrice = 10;
+    final int extraToppingsNonvegPrice = 120;
     final int bag = 20;
 
 
