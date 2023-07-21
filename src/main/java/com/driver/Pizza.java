@@ -50,7 +50,7 @@ public class Pizza {
             extraToppingsForVeg = true;
             extraCheese = true;
         }
-        else if(!extraToppingsForVeg && !isVeg){
+        else if(!isExtraToppingsForNonVeg && !isVeg){
             this.price += extraToppingsNonvegPrice;
             isExtraToppingsForNonVeg = true;
             extraCheese = true;
